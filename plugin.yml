@@ -1,5 +1,5 @@
 name: SuperPowers
-main: wolf.superpowers.SuperPowers
+main: waterwolf.superpowers.SuperPowers
 version: 0.8
 commands:
   superpowers:

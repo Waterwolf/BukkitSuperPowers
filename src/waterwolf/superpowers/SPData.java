@@ -1,13 +1,13 @@
-package wolf.superpowers;
+package waterwolf.superpowers;
 
-import static wolf.superpowers.SuperPowers.DefaultEnableFlying;
-import static wolf.superpowers.SuperPowers.DefaultEnableGlow;
-import static wolf.superpowers.SuperPowers.DefaultEnableInfiniteHP;
-import static wolf.superpowers.SuperPowers.DefaultEnableInstaBreak;
-import static wolf.superpowers.SuperPowers.DefaultEnableInstaKill;
-import static wolf.superpowers.SuperPowers.DefaultEnableItemSpawn;
-import static wolf.superpowers.SuperPowers.DefaultFlyingMultiplier;
-import static wolf.superpowers.SuperPowers.DefaultGlowStonePlacement;
+import static waterwolf.superpowers.SuperPowers.DefaultEnableFlying;
+import static waterwolf.superpowers.SuperPowers.DefaultEnableGlow;
+import static waterwolf.superpowers.SuperPowers.DefaultEnableInfiniteHP;
+import static waterwolf.superpowers.SuperPowers.DefaultEnableInstaBreak;
+import static waterwolf.superpowers.SuperPowers.DefaultEnableInstaKill;
+import static waterwolf.superpowers.SuperPowers.DefaultEnableItemSpawn;
+import static waterwolf.superpowers.SuperPowers.DefaultFlyingMultiplier;
+import static waterwolf.superpowers.SuperPowers.DefaultGlowStonePlacement;
 
 import java.util.Vector;
 

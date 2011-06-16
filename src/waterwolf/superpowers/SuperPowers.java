@@ -1,4 +1,4 @@
-package wolf.superpowers;
+package waterwolf.superpowers;
 
 /**
  * Temp changelog

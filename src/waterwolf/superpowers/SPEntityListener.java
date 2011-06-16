@@ -1,4 +1,4 @@
-package wolf.superpowers;
+package waterwolf.superpowers;
 
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.Player;
