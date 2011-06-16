@@ -1,0 +1,41 @@
+name: SuperPowers
+main: wolf.superpowers.SuperPowers
+version: 0.8
+commands:
+  superpowers:
+    description: Starts super power mode and saves position
+    usage: /<command>
+    aliases: [sp, spo]
+  listsp:
+    description: List everyone with superpowers mode
+    usage: /<command>
+  setflyspeed:
+    description: Set's flying speed to double value
+    usage: /<command> [flyingSpeed]
+  spitem:
+    description: spawn item
+    usage: /<command> itemname itemamount playerToGiveTo
+  spwool:
+    description: spawn wool
+    usage: /<command> woolcolor amount
+  spdebug:
+    description: shows debug data
+    usage: /<command>
+  tfly:
+    description: Toggles flying on or off
+    usage: /<command>
+  thp:
+    description: Toggles infinite hp on or off
+    usage: /<command>
+  tbreak:
+    description: Toggles instant block breaking on or off
+    usage: /<command>
+  tkill:
+    description: Toggles instant entity killing on or off
+    usage: /<command>
+  tglow:
+    description: Toggles automatic glowstone placement on or off
+    usage: /<command>
+  spban:
+    description: BANHAMMER
+    usage: /<command>

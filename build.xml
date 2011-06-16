@@ -1,0 +1,18 @@
+<project default="run">
+	
+    <path id="classpath">
+		<pathelement location="/home/wolf/Minecraft/bukkit/craftbukkit-0.0.1-SNAPSHOT.jar" />
+    </path>
+  
+  <target name="jar">
+    <jar destfile="/home/wolf/Minecraft/bukkit/plugins/SuperPowers.jar"
+         basedir="."
+		 includes="plugin.yml src/**"
+         >
+    	<fileset dir="bin/"/>
+    </jar>
+  </target>
+	
+  <target name="run" depends="jar" />
+	
+</project>
